@@ -1,0 +1,110 @@
+{
+  "users": [
+    {
+      "name": "tester",
+      "phoneNumber": "12345",
+      "propertyID": "1234",
+      "id": 1
+    },
+    {
+      "name": "a",
+      "phoneNumber": "b",
+      "id": 2
+    },
+    {
+      "name": "w",
+      "phoneNumber": "x",
+      "id": 3
+    },
+    {
+      "name": "a",
+      "phoneNumber": "b",
+      "id": 4
+    },
+    {
+      "name": "a",
+      "phoneNumber": "b",
+      "propertyID": "2",
+      "id": 5
+    },
+    {
+      "name": "h",
+      "phoneNumber": "i",
+      "propertyID": "1",
+      "id": 6
+    },
+    {
+      "name": "hello",
+      "phoneNumber": "hi",
+      "propertyID": "123",
+      "id": 7
+    },
+    {
+      "name": "hello",
+      "phoneNumber": "there",
+      "propertyID": "1234567",
+      "id": 8
+    },
+    {
+      "name": "John",
+      "phoneNumber": "1876729",
+      "propertyID": "12345",
+      "id": 9
+    },
+    {
+      "name": "Andrew",
+      "phoneNumber": "1982538",
+      "propertyID": "112435",
+      "id": 10
+    },
+    {
+      "name": "Haley",
+      "phoneNumber": "1876256",
+      "propertyID": "1122334455",
+      "id": 11
+    },
+    {
+      "name": "Roger",
+      "phoneNumber": "123456789",
+      "propertyID": "123456789",
+      "id": 12
+    }
+  ],
+  "properties": [
+    {
+      "id": 1,
+      "name": "Global Homes",
+      "contact": 15243,
+      "price": "250,000",
+      "address": "32 milky way galaxy"
+    },
+    {
+      "id": 2,
+      "name": "new properties",
+      "contact": 152242,
+      "price": "50,000",
+      "address": "94 andromeda road"
+    },
+    {
+      "id": 3,
+      "name": "High Rise Appartments",
+      "contact": 15243,
+      "price": "150,000",
+      "address": "172 orion avenue"
+    },
+    {
+      "name": "Low Rise Appartments",
+      "contact": 15243,
+      "price": "50,000",
+      "address": "175 orion avenue",
+      "id": 4
+    },
+    {
+      "name": "window high apartments",
+      "contact": "1342853",
+      "price": "234, 000",
+      "address": "93 scorpio drive",
+      "id": 5
+    }
+  ]
+}
